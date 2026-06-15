@@ -18,6 +18,8 @@
 | :---: |
 | ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white) |
 
-<img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" />
+<br>
+
+<img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" />
 
 </div>
