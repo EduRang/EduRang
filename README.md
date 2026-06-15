@@ -10,14 +10,6 @@
 
 </div>
 
-### 💻 Current Focus
-
-* **Software Engineering:** Building internal web applications as a Software Engineer Trainee.
-* **Game Development:** Developing core game logic, robust state management systems, and custom UI at Team Mage Studio.
-* **Human-Computer Interaction and Cloud:** Recently attained the Google UX Design Professional certification to complement my AWS Developer Associate credential, learning about cloud architectures and user-centric design.
-
----
-
 ### 🚀 Main Projects
 
 #### Team Mage Studio Game Systems and UI
@@ -26,7 +18,7 @@
 * **Architecture:** Developed a scalable game architecture utilizing State Machines and Observer Patterns. As well as, a reliable state management system for player data and save states.
 * **Design:** Designed and developed custom in-game UI, menu systems, and synchronized visual/audio effects. Additionally, designed and deployed the official studio landing page to increase visibility.
 
-#### Full-Stack Internal Applications
+#### Full-Stack Internship Applications
 
 * **Technologies:** TypeScript, React, Tailwind, Java Spring Boot, PostgreSQL, Flyway, AWS.
 * **Architecture:** Built applications providing real-time metrics, filtering, and data visualization. Managed PostgreSQL schema migrations with Flyway for expanding backend services.
