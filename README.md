@@ -18,34 +18,6 @@
 
 ---
 
-
-### 🛠 Tech Stack
-
-<p align="center">
-  <strong>Frontend and Design</strong><br>
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/tailwind-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" alt="Figma" />
-</p>
-
-<p align="center">
-  <strong>Backend and Cloud</strong><br>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=flat&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</p>
-
-<p align="center">
-  <strong>Game Dev</strong><br>
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white" alt="Unity" />
-</p>
-
----
-
 ### 💻 Current Focus
 
 * **Software Engineering:** Building internal web applications as a Software Engineer Trainee.
@@ -72,6 +44,33 @@
 
 * **Technologies:** JavaScript, Node.js, Bootstrap, Google Cloud APIs.
 * **Features:** Designed a system that significantly reduced manual patient search time. Implemented data standardization practices for Google Sheets to improve data reliability and efficiency.
+
+---
+
+### 🛠 Tech Stack
+
+<p align="center">
+  <strong>Frontend and Design</strong><br>
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/tailwind-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" alt="Figma" />
+</p>
+
+<p align="center">
+  <strong>Backend and Cloud</strong><br>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=flat&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
+
+<p align="center">
+  <strong>Game Dev</strong><br>
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white" alt="Unity" />
+</p>
 
 ---
 
