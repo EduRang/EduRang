@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&color=FFFFFF&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+Game+UI+Dev&repeat=false&duration=1" alt="Software Engineer | Game UI Dev" />
+<h1>SOFTWARE ENGINEER | GAME UI DEV</h1>
 
 <p align="center">
   <a href="https://github.com/EduRang"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
@@ -9,8 +9,6 @@
 </p>
 
 </div>
-
----
 
 ### 💻 Current Focus
 
